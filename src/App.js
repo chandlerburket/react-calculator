@@ -27,9 +27,22 @@ const App = () => {
             
          
             <div class="Menucontainer">
-              <h1 class="porter">Chandler Burket</h1>
-<div>                          <p>I am a highly motivated programmer and hard worker aspiring to build a career in software development. I am young and do lack experience but I love working with technology in my free time. I am very passionate about working with tech because of the many ways it has and can be applied. That is also why my main focus is on software development as it allows you to create anything and it allows computers to do all the things that make them so wonderful. I like working with hardware as well and believe it's important to have a fundamental understanding of it but software development is my main focus. I am willing to put in the outside hours learning and studying to prove I can be an asset</p>
-</div>
+              <h1 class="porter">Formulas</h1>
+                  <p>Arithmetic mean (average) = Sum of values / Number of values</p>
+                  <p>Probability = Target outcomes / Total outcomes</p>
+                  <p>Slope Formula: Slope = y₂ – y₁ /  x₂ – x₁</p>
+                  <p>Slope Intercept: y=mx+b</p>
+                  <p>Midpoint Formula: (x₁+x₂) / 2, (y₁+y₂) / 2</p>
+                  <p>Area of Triangle: area = (1/2) (base) (height)</p>
+                  <p>Pythagorean Theorem: a²+b²=c²</p>
+                  <p>Area of Rectangle: area = length x width</p>
+                  <p>Area of Parallelogram: area = base x height</p>
+                  <p>Sine (SOH): Sine = opposite / hypotenuse</p>
+                  <p>Cosine (CAH): Cosine = adjacent / hypotenuse</p>
+                  <p>Tangent (TOA): Tangent = opposite / adjacent</p>
+
+
+
             </div>
 
           </div>
